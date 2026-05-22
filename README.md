@@ -185,7 +185,7 @@ Zero‑install execution. Click and run.
 <p align="center">
   <sub>Built with 🧠, ☕, and an unreasonable obsession with optimality.</sub>
   <br>
-  <sub>Khaled Ben Taïeb · bt.khaled@gmail.com · 2025</sub>
+  <sub>Khaled Ben Taïeb · bt.khaled@gmail.com · 2026</sub>
   <br>
   <br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8&height=120&section=footer" width="100%"/>
