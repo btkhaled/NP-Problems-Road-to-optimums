@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "NP Problems — Road to Optimums: Empirical Evaluation of Hybrid Solvers on Karp's 21"
+message: "If you use this work in academic research, please cite it as below."
+authors:
+  - family-names: "Ben Taïeb"
+    given-names: "Khaled"
+    email: "bt.khaled@gmail.com"
+    orcid: ""
+keywords:
+  - "NP-hard"
+  - "combinatorial optimization"
+  - "0-1 knapsack"
+  - "3-SAT"
+  - "traveling salesman problem"
+  - "branch and bound"
+  - "genetic algorithm"
+  - "WalkSAT"
+  - "TSPLIB"
+  - "Pisinger"
+  - "SATLIB"
+repository-code: "https://github.com/btkhaled/NP-Problems-Road-to-optimums"
+abstract: "A research-grade repository containing hybrid heuristic and exact solvers for three fundamental NP-hard problems: 0-1 Knapsack (GA + Branch-and-Bound, 90% on Pisinger benchmarks), 3-SAT (WalkSAT + GSAT, 100% on SATLIB UF250), and TSP (GA + 2-opt/3-opt, 76% exact on TSPLIB). Includes benchmark data collections, full scientific papers, and reproducible Jupyter notebooks."
